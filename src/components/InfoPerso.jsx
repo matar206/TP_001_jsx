@@ -3,11 +3,11 @@
 function InfoPerso() {
     return(
       <div>
-        <h2>Information personnelles</h2>
-        <p>nom:</p>
-        <p>Formation:</p>
-        <p>Email:</p>
-        <p>Telephone:</p>
+        <h2>Informations personnelles</h2>
+        <p>nom: MATAR GUEYE</p>
+        <p>Formation: GENIE LOGICIELS</p>
+        <p>Email: matardollars206@gmail.com</p>
+        <p>Telephone: 769309814</p>
       </div>
 
     );
